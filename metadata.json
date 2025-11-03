@@ -1,0 +1,5 @@
+{
+  "name": "Curso Interactivo de Radiología Pediátrica",
+  "description": "Una aplicación web educativa e interactiva basada en el artículo 'Pediatric Radiology Demystified'. Los usuarios pueden aprender sobre diferentes modalidades de imagen, realizar pruebas y recibir una calificación final.",
+  "requestFramePermissions": []
+}
